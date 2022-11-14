@@ -1,4 +1,4 @@
-# Exercícios Html_Css do curso da Alura
+# Exercícios Html_Css desenvolvidos no curso da Alura
 
 parte 01 https://mayumib.github.io/html_css/
 
